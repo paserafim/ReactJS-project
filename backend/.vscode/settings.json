@@ -1,6 +1,7 @@
 {
     "cSpell.enableFiletypes": [
-        "!javascript"
+        "!javascript",
+        "!markdown"
     ],
     "workbench.colorCustomizations": {
         "activityBar.background": "#fbed80",

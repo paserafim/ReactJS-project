@@ -1,6 +1,7 @@
 const express = require('express');
 const routes = require('./routes');
 const cors = require('cors');
+const {errors} fr
 const app = express();
 
 // Avisar o Express que todos os request transformar em json
